@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Тионс\\Desktop\\examples\\ex001_cons\\ex001_cons.csproj": {}
+    "c:\\Users\\Тионс\\Desktop\\examples\\ex001_cons\\ex001_cons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Тионс\\Desktop\\examples\\ex001_cons\\ex001_cons.csproj": {
+    "c:\\Users\\Тионс\\Desktop\\examples\\ex001_cons\\ex001_cons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Тионс\\Desktop\\examples\\ex001_cons\\ex001_cons.csproj",
+        "projectUniqueName": "c:\\Users\\Тионс\\Desktop\\examples\\ex001_cons\\ex001_cons.csproj",
         "projectName": "ex001_cons",
-        "projectPath": "C:\\Users\\Тионс\\Desktop\\examples\\ex001_cons\\ex001_cons.csproj",
+        "projectPath": "c:\\Users\\Тионс\\Desktop\\examples\\ex001_cons\\ex001_cons.csproj",
         "packagesPath": "C:\\Users\\Тионс\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Тионс\\Desktop\\examples\\ex001_cons\\obj\\",
+        "outputPath": "c:\\Users\\Тионс\\Desktop\\examples\\ex001_cons\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
