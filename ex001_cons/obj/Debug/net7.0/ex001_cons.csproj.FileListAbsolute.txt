@@ -1,0 +1,15 @@
+C:\Users\Тионс\Desktop\examples\ex001_cons\bin\Debug\net7.0\ex001_cons.exe
+C:\Users\Тионс\Desktop\examples\ex001_cons\bin\Debug\net7.0\ex001_cons.deps.json
+C:\Users\Тионс\Desktop\examples\ex001_cons\bin\Debug\net7.0\ex001_cons.runtimeconfig.json
+C:\Users\Тионс\Desktop\examples\ex001_cons\bin\Debug\net7.0\ex001_cons.dll
+C:\Users\Тионс\Desktop\examples\ex001_cons\bin\Debug\net7.0\ex001_cons.pdb
+C:\Users\Тионс\Desktop\examples\ex001_cons\obj\Debug\net7.0\ex001_cons.csproj.AssemblyReference.cache
+C:\Users\Тионс\Desktop\examples\ex001_cons\obj\Debug\net7.0\ex001_cons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тионс\Desktop\examples\ex001_cons\obj\Debug\net7.0\ex001_cons.AssemblyInfoInputs.cache
+C:\Users\Тионс\Desktop\examples\ex001_cons\obj\Debug\net7.0\ex001_cons.AssemblyInfo.cs
+C:\Users\Тионс\Desktop\examples\ex001_cons\obj\Debug\net7.0\ex001_cons.csproj.CoreCompileInputs.cache
+C:\Users\Тионс\Desktop\examples\ex001_cons\obj\Debug\net7.0\ex001_cons.dll
+C:\Users\Тионс\Desktop\examples\ex001_cons\obj\Debug\net7.0\refint\ex001_cons.dll
+C:\Users\Тионс\Desktop\examples\ex001_cons\obj\Debug\net7.0\ex001_cons.pdb
+C:\Users\Тионс\Desktop\examples\ex001_cons\obj\Debug\net7.0\ex001_cons.genruntimeconfig.cache
+C:\Users\Тионс\Desktop\examples\ex001_cons\obj\Debug\net7.0\ref\ex001_cons.dll
